@@ -1,4 +1,7 @@
-# dnmp alpine 
+# dnmp alpine
+[![Docker Hub](https://img.shields.io/badge/docker-ready-blue.svg)](https://registry.hub.docker.com/u/techdivision/dnmp-alpine/)
+[![Docker Automated build](https://img.shields.io/docker/automated/techdivision/dnmp-alpine.svg)]()
+
 All-in-One docker image based on alpine.
 
 ## Services
